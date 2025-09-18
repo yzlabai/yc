@@ -20,7 +20,7 @@ export default function Home() {
                 <Brain className="h-8 w-8 text-primary animate-pulse" />
                 <div className="absolute inset-0 rounded-full bg-primary/20 blur-md"></div>
               </div>
-              <span className="text-xl font-bold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">YC</span>
+              <span className="text-xl font-bold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">yanchat</span>
             </div>
             <nav className="hidden md:flex items-center space-x-6">
               <a href="#features" className="text-sm font-medium hover:text-primary transition-all duration-300 hover:scale-105">
@@ -292,7 +292,7 @@ export default function Home() {
                   <Brain className="h-8 w-8 text-primary" />
                   <div className="absolute inset-0 rounded-full bg-primary/20 blur-sm"></div>
                 </div>
-                <span className="text-2xl font-bold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">YC</span>
+                <span className="text-2xl font-bold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">yanchat</span>
                 <span className="text-sm text-muted-foreground">- AI Detect & Deep Research</span>
               </div>
               <p className="text-muted-foreground mb-4 max-w-md">
